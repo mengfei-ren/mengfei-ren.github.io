@@ -1,11 +1,11 @@
 ---
 widget: featured
-widget_id: recent-pub
+widget_id: Recent-Pubs
 headless: true
 weight: 80
 title: Featured Publications
 subtitle: ""
-active: false
+active: true
 content:
   page_type: publication
   count: 0
