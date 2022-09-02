@@ -1,6 +1,6 @@
 body {
     background-color:#eceaef;
-    background:#0F3367 url('media/bkgd_main.jpg?raw=true') top left repeat-x;
+    background:#0F3367 url('bkgd_main.jpg') top left repeat-x;
 }
 td {
     padding:15px;
@@ -87,4 +87,8 @@ ul li {
 
 a, a:visited, a:hover, a:active {
   color: blue;
+}
+
+.fa-trophy {
+    color: goldenrod;
 }
