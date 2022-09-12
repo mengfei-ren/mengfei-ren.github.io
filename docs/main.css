@@ -92,3 +92,9 @@ a, a:visited, a:hover, a:active {
 .fa-trophy {
     color: goldenrod;
 }
+
+.badge {
+    width: 35px;
+    height: 35px;
+    text-align: center;
+}
