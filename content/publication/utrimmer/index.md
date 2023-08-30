@@ -6,7 +6,7 @@ title: 'One Size Does Not Fit All: Security Hardening of MIPS Embedded Systems v
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - Haotian Zhang
-  - Mengfei Ren
+  - admin
   - Yu Lei
   - Jiang Ming
 

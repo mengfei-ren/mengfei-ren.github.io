@@ -234,7 +234,7 @@ sections:
       title: 'Services'
       text: |-
         **External Reviewers**
-        - [USENIX Sec'] USENIX Security Symposium: 2021 - 2023
+        - [USENIX Sec] USENIX Security Symposium: 2021 - 2023
         - [ASE] IEEE/ACM International Conference on Automated Software Engineering: 2020
         - [CCS] ACM Conference on Computer and Communication Secuirty: 2019 - 2020
         - [ICICS] International Conference on Information and Communication Secuirty: 2019 - 2021
@@ -267,7 +267,7 @@ sections:
       # phone: 
       # appointment_url: 
       address:
-        street: 301 Spartkman Drive
+        street: Engineering Building Room 217D, 301 Spartkman Drive
         city: Huntsville
         region: AL
         postcode: '35899'
@@ -275,7 +275,7 @@ sections:
         country_code: US
       # Automatically link email and phone or display as text?
       autolink: true
-      office_hours: Tuesday and Thursday 10:00 - 11:00 or email for appointment
+      office_hours: Tuesday and Thursday 10:00 - 11:00 AM and email for appointment
       # Email form provider
       # form:
       #   provider: netlify

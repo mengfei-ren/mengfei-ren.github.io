@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Mengfei Ren 任梦菲
+title: Mengfei Ren
 
 # Is this the primary user of the site?
 superuser: true
