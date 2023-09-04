@@ -69,6 +69,6 @@ I am an Assistant Professor in the [Department of Electrical and Computer Engine
 
 My current research interests span Software Engineering and IoT Security. Particularly, I am endeavoring to develop robust and integrative security testing tools with advanced software engineering techniques, such as fuzz testing and data flow analysis, for the security analysis of IoT device and wireless protocols.
 
-> I'm always looking for self-motivated Ph.D. students who would like to carry on top-notch research on Software Testing and IoT Security. Candidates are expected to have a solid background in computer science or cybersecurity, particularly in software testing, operating systems, and strong programming skills. Please contact me if you are interested.
+> I'm always looking for self-motivated Ph.D. students who would like to carry on top-notch research on Software Testing and IoT Security. Candidates are expected to have a solid background in computer science or cybersecurity, particularly in software testing, operating systems, and strong programming skills. See more details in this [flyer](uploads/phd_ads.pdf). Please contact me if you are interested.
 
 {style="text-align: justify;"}
