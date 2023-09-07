@@ -41,6 +41,18 @@ sections:
       title: About Me
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+  - block: markdown
+    id: news
+    content:
+      title: 'News'
+      text: >-
+        <ul>
+        <li><b>[2023-09-05]</b> 1-2 fully funded PhD positions are opening for Spring 2024 or Fall 2024. See more details <a href="uploads/phd_opening.pdf" target="_blank">here</a>.</li>
+        <li><b>[2023-08-08]</b> I'm happy to share that I have joined the Department of Electrical and Computer Engineering at University of Alabama in Huntsville as an Assistant Professor.</li>
+        <li><b>[2023-07-10]</b> I have successfully defended my Ph.D dissertation <i>"Fuzz Testing of Zigbee Protocol Implementations"</i>.</li>
+        </ul>
+    design:
+      columns: '2'
   # - block: features
   #   content:
   #     title: Skills
