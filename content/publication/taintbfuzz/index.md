@@ -29,8 +29,8 @@ publishDate: '2023-08-25T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Proceedings of the 2023 European Symposium on Research in Computer Security (ESORICS 2023)*. Hague, Netherland. September, 2021. (Just accepted)
-publication_short: In *Proceedings of the 2023 European Symposium on Research in Computer Security (ESORICS 2023)*. Hague, Netherland. September, 2021. (Just accepted)
+publication: In *Proceedings of the 2023 European Symposium on Research in Computer Security (ESORICS 2023)*. Hague, Netherland. September, 2021. (Acceptance rate 18.5%)
+publication_short: In *Proceedings of the 2023 European Symposium on Research in Computer Security (ESORICS 2023)*. Hague, Netherland. September, 2021. (Acceptance rate 18.5%)
 
 
 # # Summary. An optional shortened abstract.
@@ -39,7 +39,7 @@ publication_short: In *Proceedings of the 2023 European Symposium on Research in
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
