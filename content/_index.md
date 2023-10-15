@@ -47,7 +47,8 @@ sections:
       title: 'News'
       text: >-
         <ul>
-        <li><b>[2023-09-05]</b> 1-2 fully funded PhD positions are opening for Spring 2024 or Fall 2024. See more details <a href="uploads/phd_opening.pdf" target="_blank">here</a>.</li>
+        <li><b>[2023-09-25]</b> Our paper "Intelligent Zigbee Protocol Fuzzing via Constraint-Field Dependency Inference" has been accepted and presented in ESORICS 2023. The official link will be available soon.</li>
+        <li><b>[2023-09-05]</b> 1-2 fully funded PhD positions are opening for Spring 2024 or Fall 2024. See more details <a href="uploads/phd_opening.pdf" target="_blank">here</a>. <br><span style="color:blue">Update: Sping 2024 is full and 1 position available for Fall 2024.</span></li>
         <li><b>[2023-08-08]</b> I'm happy to share that I have joined the Department of Electrical and Computer Engineering at University of Alabama in Huntsville as an Assistant Professor.</li>
         <li><b>[2023-07-10]</b> I have successfully defended my Ph.D dissertation <i>"Fuzz Testing of Zigbee Protocol Implementations"</i>.</li>
         </ul>
