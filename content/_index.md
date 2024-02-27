@@ -47,10 +47,10 @@ sections:
       title: 'News'
       text: >-
         <ul>
-        <li><b>[2024-01-30]</b> I'm still looking one more PhD student for Fall 2024. See more details <a href="uploads/phd_opening.pdf" target="_blank">here</a> for applying if you're interested.</li>
-        <li><b>[2024-01-11]</b> Our paper "Intelligent Zigbee Protocol Fuzzing via Constraint-Field Dependency Inference" accepted by ESORICS 2023 is now published. Welcome to check details from <a href="https://doi.org/10.1007/978-3-031-51476-0_23" target="_blank">this link</a>.</li>
+        <!-- <li><b>[2024-01-30]</b> I'm still looking one more PhD student for Fall 2024. See more details <a href="uploads/phd_opening.pdf" target="_blank">here</a> for applying if you're interested.</li> -->
+        <li><b>[2024-01-11]</b> Our ESORICS paper is now published. Welcome to check details from <a href="https://doi.org/10.1007/978-3-031-51476-0_23" target="_blank">this link</a>.</li>
         <li><b>[2023-09-25]</b> Our paper "Intelligent Zigbee Protocol Fuzzing via Constraint-Field Dependency Inference" has been accepted and presented in ESORICS 2023. The official link will be available soon.</li>
-        <li><b>[2023-09-05]</b> 1-2 fully funded PhD positions are opening for Spring 2024 or Fall 2024.</li>
+        <!-- <li><b>[2023-09-05]</b> 1-2 fully funded PhD positions are opening for Spring 2024 or Fall 2024.</li> -->
         <li><b>[2023-08-08]</b> I'm happy to share that I have joined the Department of Electrical and Computer Engineering at University of Alabama in Huntsville as an Assistant Professor.</li>
         <li><b>[2023-07-10]</b> I have successfully defended my Ph.D dissertation <i>"Fuzz Testing of Zigbee Protocol Implementations"</i>.</li>
         </ul>
@@ -248,6 +248,9 @@ sections:
     content:
       title: 'Services'
       text: |-
+        **Technical Program Committee**
+        - [SoutheastCon] IEEE SourtheastCon: 2024
+        
         **External Reviewers**
         - [USENIX Sec] USENIX Security Symposium: 2021 - 2023
         - [ASE] IEEE/ACM International Conference on Automated Software Engineering: 2020
