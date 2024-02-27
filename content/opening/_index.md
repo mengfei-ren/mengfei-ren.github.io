@@ -28,7 +28,7 @@ We are looking for students who are/have
 
 **How to Apply**
 
-If you are interested in working with us as a Ph.D. student, please send me the following materials via [email](mengfei.ren@uah.edu), with the title **"PhD Application_Name_Term"**. The qualified applicants will be invited for further interviews.
+If you are interested in working with us as a Ph.D. student, please send me the following materials via [email](mailto:mengfei.ren@uah.edu), with the title **"PhD Application_Name_Term"**. The qualified applicants will be invited for further interviews.
 
 - :heavy_check_mark: Official transcripts of all educations. Unofficial transcript for current students is acceptable.
 - :heavy_check_mark: CV/resume with a list of publications if available. The publications should include authors, conference/journal name, and date.
