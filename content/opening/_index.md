@@ -36,7 +36,7 @@ If you are interested in working with us as a Ph.D. student, please send me the 
 	- the specific topic/area you're interested in exploing during Ph.D. study
 	- brief study plan for developing your interested topic/area in 3 or 5 years
 	
-	**Note:** This statement is not the same as your SOP. The described research topic/area should be too general or broad.
+	**Note:** This statement is not the same as your SOP. The described research topic/area should not be too general or broad.
 
 - :heavy_check_mark: English Proficiency Proof. GRE score is a plus, but not required.
 	- IELTS: all sub-scores are >= 6.5
