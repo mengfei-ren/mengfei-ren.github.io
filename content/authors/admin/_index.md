@@ -14,13 +14,13 @@ organizations:
     url: https://www.uah.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include fuzz testing, data flow analysis, combinatorial testing, IoT wireless protocols.
+bio: My research interests include fuzz testing, data flow analysis, combinatorial testing, software security, system security.
 
 # Interests to show in About widget
 interests:
   - Fuzz Testing
-  - Combinatorial Testing
-  - IoT Wireless Protocol Secuirty
+  - Software Testing & Security
+  - IoT Secuirty
 
 # Education to show in About widget
 education:
@@ -56,9 +56,9 @@ social:
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  # - icon: cv
-  #   icon_pack: ai
-  #   link: uploads/resume.pdf
+  - icon: cv
+    icon_pack: ai
+    link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -70,7 +70,7 @@ highlight_name: true
 
 I am an Assistant Professor in the [Department of Electrical and Computer Engineering](https://www.uah.edu/eng/departments/ece) at [The University of Alabama in Huntsville](https://www.uah.edu). I received my Ph.D. degrees in Computer Science from [The University of Texas at Arlington](https://www.uta.edu). Prior to commencing my doctoral studies at UT Arlington, I also worked in industry for several years as a software engineer. 
 
-My present academic focus revolves around the intersection of Software Engineering and IoT Security. Specifically, I am dedicated to creating comprehensive security testing tools that leverage advanced software engineering methodologies. These tools aim to enhance the security analysis of IoT devices, wireless protocols, and other systems.
+My present academic focus revolves around the intersection of Software Engineering and Cybersecurity. Specifically, I am dedicated to creating comprehensive security testing tools that leverage advanced software engineering methodologies. These tools aim to enhance the security analysis of IoT ecosystems, modern compilers and ad-hoc ecosystems.
 
-> I am continuously seeking proactive Ph.D. candidates interested in advancing research in Software Testing and IoT Security. Prospective candidates should possess a strong foundation in computer science or cybersecurity, with a focus on software testing, operating systems, and proficient programming skills. If this opportunity aligns with your interests, please reach out to me.
+> I am continuously seeking proactive Ph.D. candidates interested in advancing research in Software Testing and IoT Security. Prospective candidates should possess a strong foundation in computer science or cybersecurity, with a focus on software testing, operating systems, and proficient programming skills. If this opportunity aligns with your interests, please reach out to me. See details in [here](opening/).
 {style="text-align: justify;"}
