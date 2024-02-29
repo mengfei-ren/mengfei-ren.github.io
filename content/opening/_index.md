@@ -3,7 +3,7 @@ title: Opening
 type: landing
 ---
 
-> One fully-funded PhD student position is available for Fall 2024.
+<!-- > One fully-funded PhD student position is available for Fall 2024. -->
 
 We are always looking for new group members with passion, talent, and grit!
 
