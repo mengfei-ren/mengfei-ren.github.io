@@ -220,6 +220,7 @@ sections:
       text: |-
         **Technical Program Committee**
         - [SoutheastCon] IEEE SourtheastCon: 2024
+        - [JSS] The Journal of Systems & Software
         
         **External Reviewers**
         - [USENIX Sec] USENIX Security Symposium: 2021 - 2023
@@ -255,7 +256,8 @@ sections:
       # phone: 
       # appointment_url: 
       address:
-        street: Engineering Building Room 217D, 301 Spartkman Drive
+        street: Engineering Building Room 217D, 
+                301 Spartkman Drive
         city: Huntsville
         region: AL
         postcode: '35899'
