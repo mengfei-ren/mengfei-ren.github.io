@@ -17,7 +17,7 @@ sections:
       title: 'News'
       text: >-
         <ul>
-        <!-- <li><b>[2024-01-30]</b> I'm still looking one more PhD student for Fall 2024. See more details <a href="uploads/phd_opening.pdf" target="_blank">here</a> for applying if you're interested.</li> -->
+        <li><b>[2024-06-07]</b> I have been selected for the award of 2023/24 UAH New Faculty Research Program.</li>
         <li><b>[2024-01-11]</b> Our ESORICS paper is now published. Welcome to check details from <a href="https://doi.org/10.1007/978-3-031-51476-0_23" target="_blank">this link</a>.</li>
         <li><b>[2023-09-25]</b> Our paper "Intelligent Zigbee Protocol Fuzzing via Constraint-Field Dependency Inference" has been accepted and presented in ESORICS 2023. The official link will be available soon.</li>
         <!-- <li><b>[2023-09-05]</b> 1-2 fully funded PhD positions are opening for Spring 2024 or Fall 2024.</li> -->
@@ -256,7 +256,7 @@ sections:
       # phone: 
       # appointment_url: 
       address:
-        street: Engineering Building Room 217D, 
+        street: Engineering Building Room 217-D, 
                 301 Spartkman Drive
         city: Huntsville
         region: AL
