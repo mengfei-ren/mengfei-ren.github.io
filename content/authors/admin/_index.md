@@ -72,5 +72,5 @@ I am an Assistant Professor in the [Department of Electrical and Computer Engine
 
 My present academic focus revolves around the intersection of Software Engineering and Cybersecurity. Specifically, I am dedicated to creating comprehensive security testing tools that leverage advanced software engineering methodologies. These tools aim to enhance the security analysis of IoT ecosystems, modern compilers and ad-hoc ecosystems.
 
-> I am continuously seeking proactive Ph.D. candidates interested in advancing research in Software Testing and IoT Security. Prospective candidates should possess a strong foundation in computer science or cybersecurity, with a focus on software testing, operating systems, and proficient programming skills. If this opportunity aligns with your interests, please reach out to me. See details in [here](opening/).
+> I am continuously seeking proactive Ph.D. candidates interested in advancing research in Software Testing and IoT Security. Prospective candidates should possess a strong foundation in computer science or cybersecurity, with a focus on software testing, operating systems, and proficient programming skills. If this opportunity aligns with your interests, please reach out to me. See current openings in [here](opening/).
 {style="text-align: justify;"}

@@ -202,11 +202,20 @@ sections:
       columns: '2'
       view: citation
   - block: markdown
+    id: honor
+    content:
+      title: 'Honors & Awards'
+      text: |-
+        - UAH New Faculty Research Program, 2024
+    design:
+      columns: '2'
+  - block: markdown
     id: teaching
     content:
       title: 'Teaching'
       text: |-
         **Courses at University of Alabama in Huntsville**
+        - CPE 212: Fundamental of Software Engineering
         - CPE 645: Computer Network Security
 
         **Courses at University of Texas at Arlington**
