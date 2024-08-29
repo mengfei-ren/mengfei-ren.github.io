@@ -28,7 +28,7 @@ We are looking for students who are/have
 
 **How to Apply**
 
-If you are interested in working with us as a Ph.D. student, please send me the following materials via [email](mailto:mengfei.ren@uah.edu), with the title **"PhD Application_Name_Term"**. The qualified applicants will be invited for further interviews.
+If you are interested in working with us as a Ph.D. student, please send me the following materials via [email](mailto:mengfei.ren@uah.edu), with the title **"PhD Application_Name_Term"**. <span style="color:red;">Emails that don’t include sufficient materials will not be reviewed and responsed!</span>
 
 - :heavy_check_mark: Official transcripts of all educations. Unofficial transcript for current students is acceptable.
 - :heavy_check_mark: CV/resume with a list of publications if available. The publications should include authors, conference/journal name, and date.
@@ -42,6 +42,7 @@ If you are interested in working with us as a Ph.D. student, please send me the 
 	- IELTS: all sub-scores are >= 6.5
 	- TOEFL iBT: all sub-scores are >= 22
 	- Duolingo: all sub-scores are >= 115
+
 
 ## Master Students at UA Huntsville
 If you are a Master student at UAH and looking for a Master thesis project, please contact me through email or stop by my office.
