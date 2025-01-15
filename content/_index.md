@@ -212,7 +212,7 @@ sections:
   - block: markdown
     id: teaching
     content:
-      title: 'Teaching'
+      title: 'Teaching & Mentoring'
       text: |-
         **Courses at University of Alabama in Huntsville**
         - CPE 212: Fundamental of Software Engineering
@@ -220,6 +220,12 @@ sections:
 
         **Courses at University of Texas at Arlington**
         - CSE 4380/5380 Lab: Information Secuirty I 
+
+        <br />
+
+        **Current PhD Students**
+        - Abdullah Al Noman (strating in Fall 2024)
+        - Md Nafiur Reza (starting in Spring 2025)
     design:
       columns: '2'
   - block: markdown
@@ -240,21 +246,6 @@ sections:
         - [TSE] IEEE Journal of Transactions on Software Engineering: 2022
     design:
       columns: '2'
-  # - block: collection
-  #   id: talks
-  #   content:
-  #     title: Recent & Upcoming Talks
-  #     filters:
-  #       folders:
-  #         - event
-  #   design:
-  #     columns: '2'
-  #     view: compact
-  # - block: tag_cloud
-  #   content:
-  #     title: Popular Topics
-  #   design:
-  #     columns: '2'
   - block: contact
     id: contact
     content:
@@ -274,7 +265,6 @@ sections:
         country_code: US
       # Automatically link email and phone or display as text?
       autolink: true
-      office_hours: Tuesday and Thursday 10:00 - 11:00 AM and email for appointment
       # Email form provider
       # form:
       #   provider: netlify

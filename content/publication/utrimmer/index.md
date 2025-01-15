@@ -34,7 +34,10 @@ publication_short: In *Proceedings of the 27th ACM International Conference on A
 
 # # Summary. An optional shortened abstract.
 summary: >-
-  <p><img src="/publication/zfuzzer/ae-icon.png" width="260" height="110" style="margin-left:0;margin-top: 10px;margin-bottom: 10px;"></p>
+  <p><img src="/publication/utrimmer/ae-icon.png" width="260" height="110" style="margin-left:0;margin-top: 10px;margin-bottom: 20px;"></p>
+  <p>
+  <a href="https://www.ieee-hsttc.org/tp-candidate-2023/"> <img align="left" src="/publication/utrimmer/medal-icon.png" width="30" height="15" style="margin: 0 5px 0 10px;" />Shortlisted for IEEE Top Picks in Hardware and Embedded Security 2023</a>
+  </p>
 
 tags: []
 

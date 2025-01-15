@@ -18,10 +18,10 @@ bio: My research interests include fuzz testing, data flow analysis, combinatori
 
 # Interests to show in About widget
 interests:
-  - Fuzz Testing
-  - Software Testing & Security
-  - IoT Secuirty
-
+  - IoT Wireless Protocol Testing
+  - Compiler Testing
+  - Digital Twin Testing
+  
 # Education to show in About widget
 education:
   courses:
@@ -31,7 +31,7 @@ education:
     - course: MSc in Computer Science
       institution: Unviersity of Texas at Arlington
       year: 2013
-    - course: BSc in Computer Science and Technology
+    - course: BSc in Computer Science
       institution: China University of Petroleum
       year: 2011
 
@@ -70,7 +70,7 @@ highlight_name: true
 
 I am an Assistant Professor in the [Department of Electrical and Computer Engineering](https://www.uah.edu/eng/departments/ece) at [The University of Alabama in Huntsville](https://www.uah.edu). I received my Ph.D. degrees in Computer Science from [The University of Texas at Arlington](https://www.uta.edu). Prior to commencing my doctoral studies at UT Arlington, I also worked in industry for several years as a software engineer. 
 
-My present academic focus revolves around the intersection of Software Engineering and Cybersecurity. Specifically, I am dedicated to creating comprehensive security testing tools that leverage advanced software engineering methodologies. These tools aim to enhance the security analysis of IoT ecosystems, modern compilers and ad-hoc ecosystems.
+Currently, I'm leading the *Software Testing & IoT Security Lab (STIS)* at UAH, focusing on the intersection of Software Engineering and Cybersecurity. Specifically, I am dedicated to creating comprehensive security testing tools that leverage advanced software engineering methodologies. These tools aim to enhance the security analysis of IoT ecosystems, modern compilers and ad-hoc ecosystems.
 
 > I am continuously seeking proactive Ph.D. candidates interested in advancing research in Software Testing and IoT Security. Prospective candidates should possess a strong foundation in computer science or cybersecurity, with a focus on software testing, operating systems, and proficient programming skills. If this opportunity aligns with your interests, please reach out to me. See current openings in [here](opening/).
 {style="text-align: justify;"}
