@@ -3,18 +3,16 @@ title: Opening
 type: landing
 ---
 
-**UPDATES:** Currently no openings of PhD GRA position for Spring25.
+**UPDATES: Currently one GTA position for Fall 2025.**
 
 We are always looking for new group members with passion, talent, and grit!
 
-You will have the chance to work on the grand challenges of software engineering, testing of IoT wireless protocols, compilers, ad-hoc ecosystems, and AI-based software and security problems in software applications. You will be involved in determining the important and interesting questions, creating and improving instrumental setups, performing measurements, and making discoveries.
+You will have the chance to work on the grand challenges of software engineering, testing of IoT wireless protocols, compilers, ad-hoc ecosystems and security problems in software applications. You will be involved in determining the important and interesting questions, creating and improving instrumental setups, performing measurements, and making discoveries.
 
 ## Research Interests
 - :eyes: Software testing advancements: fuzzing, data flow analysis, combinatorial testing, symbolic execution, ...
 - :globe_with_meridians: Security innovations in IoT wireless protocols, e.g., Zigbee, Z-Wave, MQTT, ...
 - :thought_balloon: Advanced testing and security analysis in modern compilers
-- :bulb: Advanced testing and security analysis in AI models and AI-based software applications
-
 
 ## Applications for PhD positions
 

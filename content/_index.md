@@ -17,6 +17,8 @@ sections:
       title: 'News'
       text: >-
         <ul>
+        <li><b>[2025-02-17]</b> Our paper <i>"Low-entropy Packed Binary Detection via Accurate Hardware Events Profiling"</i> has been accepted by 2025 IEEE International Symposium on Hardware Oriented Security and Trust (HOST '25).</li>
+        <li><b>[2025-02-02]</b> Congraduations to <b>Abdullah Noman </b> for his first paper <i>"An AI-based Security Analysis Solution for DevSecOps"</i> being accepted by 2025 International Symposium on Intelligent Computing and Networking (ISICN '25).</li>
         <li><b>[2024-06-07]</b> I have been selected for the award of 2023/24 UAH New Faculty Research Program.</li>
         <li><b>[2024-01-11]</b> Our ESORICS paper is now published. Welcome to check details from <a href="https://doi.org/10.1007/978-3-031-51476-0_23" target="_blank">this link</a>.</li>
         <li><b>[2023-09-25]</b> Our paper "Intelligent Zigbee Protocol Fuzzing via Constraint-Field Dependency Inference" has been accepted and presented in ESORICS 2023. The official link will be available soon.</li>
@@ -206,7 +208,9 @@ sections:
     content:
       title: 'Honors & Awards'
       text: |-
-        - UAH New Faculty Research Program, 2024
+        - UA Huntsville New Faculty Research Program, 2024
+        - UT Arlington 2023 Summer Dissertation Fellowship, 2023
+        - USENIX Security Symposium Diversity Grant, 2022
     design:
       columns: '2'
   - block: markdown
@@ -234,7 +238,7 @@ sections:
       title: 'Services'
       text: |-
         **Technical Program Committee**
-        - [SoutheastCon] IEEE SourtheastCon: 2024
+        - [SoutheastCon] IEEE SourtheastCon: 2024, 2025
         - [JSS] The Journal of Systems & Software
         
         **External Reviewers**

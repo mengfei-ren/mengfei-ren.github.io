@@ -14,13 +14,13 @@ organizations:
     url: https://www.uah.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include fuzz testing, data flow analysis, combinatorial testing, software security, system security.
+bio: My research interests include fuzz testing, data flow analysis, combinatorial testing, system testing.
 
 # Interests to show in About widget
 interests:
   - IoT Wireless Protocol Testing
   - Compiler Testing
-  - Digital Twin Testing
+  - Software Security Testing
   
 # Education to show in About widget
 education:
