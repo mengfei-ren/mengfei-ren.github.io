@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mengfei Ren</title>
+    <link>http://localhost:1313/</link>
+      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mengfei Ren</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_73ed8df26cd91906.png</url>
+      <title>Mengfei Ren</title>
+      <link>http://localhost:1313/</link>
+    </image>
+    
+    <item>
+      <title>[HOST &#39;25] Low-entropy Packed Binary Detection via Accurate Hardware Events Profiling</title>
+      <link>http://localhost:1313/publication/preprint/hpc/</link>
+      <pubDate>Mon, 17 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/preprint/hpc/</guid>
+      <description>&lt;!-- 
+
+
+
+
+  
+    
+  
+
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/span&gt;
+&lt;/div&gt;
+
+
+
+
+
+
+  
+    
+  
+
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
+&lt;/div&gt;
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>🎉 New Paper Accepted</title>
+      <link>http://localhost:1313/post/host25/</link>
+      <pubDate>Mon, 17 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/host25/</guid>
+      <description>&lt;p&gt;Our paper &lt;em&gt;Low-entropy Packed Binary Detection via Accurate Hardware Events Profiling&lt;/em&gt; has been accepted by 2025 IEEE International Symposium on Hardware Oriented Security and Trust (HOST &amp;lsquo;25). Come to the HOST 2025 in San Jose, CA to see our presentation. The paper link will be released after the conference.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>🎉 New Paper Accepted</title>
+      <link>http://localhost:1313/post/isicn25/</link>
+      <pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/isicn25/</guid>
+      <description>&lt;p&gt;One PhD student &lt;strong&gt;Abdullah Noman&lt;/strong&gt;&amp;rsquo;s &lt;em&gt;An AI-based Security Analysis Solution for DevSecOps&lt;/em&gt; being accepted by 2025 International Symposium on Intelligent Computing and Networking (ISICN &amp;lsquo;25). The paper link will be released after the conference.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An AI-based Security Solution for DevSecOps</title>
+      <link>http://localhost:1313/publication/preprint/aidevsecops/</link>
+      <pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/preprint/aidevsecops/</guid>
+      <description>&lt;!-- 
+
+
+
+
+  
+    
+  
+
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/span&gt;
+&lt;/div&gt;
+
+
+
+
+
+
+  
+    
+  
+
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
+&lt;/div&gt;
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>🏆 Award Granted</title>
+      <link>http://localhost:1313/post/nfr24/</link>
+      <pubDate>Fri, 07 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/nfr24/</guid>
+      <description>&lt;p&gt;I have been selected for the award of 2023/24 UAH New Faculty Research Program, within the project &lt;em&gt;Automated Test Cases Generation for Detecting Bugs of Modern Compilers&lt;/em&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>🎉 New Paper Accepted</title>
+      <link>http://localhost:1313/post/esorics24/</link>
+      <pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/esorics24/</guid>
+      <description>&lt;p&gt;Our paper &lt;em&gt;Intelligent Zigbee Protocol Fuzzing via Constraint-Field Dependency Inference&lt;/em&gt; has been accepted by 28th European Symposium on Research in Computer Security (ESORICS &amp;lsquo;&amp;lsquo;23). See the details from this &lt;a href=&#34;https://link.springer.com/chapter/10.1007/978-3-031-51476-0_23&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>[ESORICS &#39;23] Intelligent Zigbee Protocol Fuzzing via Constraint-Field Dependency Inference</title>
+      <link>http://localhost:1313/publication/conference-paper/taintbfuzz/</link>
+      <pubDate>Mon, 25 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/conference-paper/taintbfuzz/</guid>
+      <description>&lt;!-- 
+
+
+
+
+  
+    
+  
+
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/span&gt;
+&lt;/div&gt;
+
+
+
+
+
+
+  
+    
+  
+
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
+&lt;/div&gt;
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>🧑‍🏫 Join UAH</title>
+      <link>http://localhost:1313/post/uah/</link>
+      <pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/uah/</guid>
+      <description>&lt;p&gt;I will join Department of Electrical and Computer Engineering at University of Alabama in Huntsville as an Assistant Professor in August 2023.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Security Analysis of Zigbee Protocol Implementation via Device-Agnostic Fuzzing</title>
+      <link>http://localhost:1313/publication/journal-article/zfuzzer-journal/</link>
+      <pubDate>Thu, 14 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/journal-article/zfuzzer-journal/</guid>
+      <description>&lt;!-- 
+
+
+
+
+  
+    
+  
+
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/span&gt;
+&lt;/div&gt;
+
+
+
+
+
+
+  
+    
+  
+
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
+&lt;/div&gt;
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>[ASPLOS &#39;22] One Size Does Not Fit All: Security Hardening of MIPS Embedded Systems via Static Binary Debloating for Shared Libraries</title>
+      <link>http://localhost:1313/publication/conference-paper/utrimmer/</link>
+      <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/conference-paper/utrimmer/</guid>
+      <description>&lt;p&gt;&amp;#x1f3c6; &lt;strong&gt;Artifact Badges:&lt;/strong&gt; Available, Functional, Reproduced.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/publication/conference-paper/utrimmer/ae-icon.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;🏅 Shortlisted for IEEE Top Picks in Hardware and Embedded Security 2023&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>[WiSec &#39;21] Z-Fuzzer: Device-Agnostic Fuzzing of Zigbee Protocol Implementation</title>
+      <link>http://localhost:1313/publication/conference-paper/zfuzzer/</link>
+      <pubDate>Mon, 28 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/conference-paper/zfuzzer/</guid>
+      <description>&lt;p&gt;&amp;#x1f3c6; &lt;strong&gt;Artifact Badges:&lt;/strong&gt; Available, Functional, Reproduced.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/publication/conference-paper/zfuzzer/ae-icon.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;🐞 &lt;strong&gt;Zero-day Vulnerabilities Detected:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://nvd.nist.gov/vuln/detail/CVE-2020-27890&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2020-27890&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://nvd.nist.gov/vuln/detail/CVE-2020-27891&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2020-27891&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://nvd.nist.gov/vuln/detail/CVE-2020-27892&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2020-27892&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Opening</title>
+      <link>http://localhost:1313/opening/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/opening/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;UPDATES: Currently one GTA position for Fall 2025.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;You will have the chance to work on the grand challenges of software engineering, testing of IoT wireless protocols, compilers, ad-hoc ecosystems and security problems in software applications. You will be involved in determining the important and interesting questions, creating and improving instrumental setups, performing measurements, and making discoveries.&lt;/p&gt;
+&lt;h2 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;📑 Software testing advancements: fuzzing, data flow analysis, combinatorial testing, symbolic execution, &amp;hellip;&lt;/li&gt;
+&lt;li&gt;🛠 Security innovations in IoT wireless protocols, e.g., Zigbee, Z-Wave, MQTT, &amp;hellip;&lt;/li&gt;
+&lt;li&gt;🖥 Advanced testing and security analysis in modern compilers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;applications-for-phd-positions&#34;&gt;Applications for PhD positions&lt;/h2&gt;
+&lt;h3 id=&#34;application-requirements&#34;&gt;Application Requirements&lt;/h3&gt;
+&lt;p&gt;We are looking for students who are/have&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;BS or MS in Computer Science or Computer Engineering with a good GPA.&lt;/li&gt;
+&lt;li&gt;Strong motivation and high ambition in research of software testing or cybersecurity.&lt;/li&gt;
+&lt;li&gt;Excellent analytical and programming skills such as C, C++ and Python.&lt;/li&gt;
+&lt;li&gt;Strong communication and teamwork abilities.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;How to Apply&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;If you are interested in working with us as a Ph.D. student, please send me the following materials via &lt;a href=&#34;mailto:mengfei.ren@uah.edu&#34;&gt;email&lt;/a&gt;, with the title &lt;strong&gt;&amp;ldquo;PhD Application_Name_Term&amp;rdquo;&lt;/strong&gt;. &lt;span style=&#34;color:red;&#34;&gt;Emails without all required materials will not be reviewed and responsed!&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;📌 Official transcripts of all educations. Unofficial transcript for current students is acceptable.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;📌 CV/resume with a list of publications if available. The publications should include authors, conference/journal name, and date.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;📌 Research statement including the following items:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;the specific topic/area you&amp;rsquo;re interested in exploing during Ph.D. study&lt;/li&gt;
+&lt;li&gt;brief study plan for developing your interested topic/area in 3 or 5 years&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; This statement is not the same as personal statement. The described research topic/area should not be too general or broad.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;📌 English Proficiency Proof. GRE score is a plus, but not required.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;IELTS: all sub-scores are &amp;gt;= 6.5&lt;/li&gt;
+&lt;li&gt;TOEFL iBT: all sub-scores are &amp;gt;= 22&lt;/li&gt;
+&lt;li&gt;Duolingo: all sub-scores are &amp;gt;= 115&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;master-students-at-ua-huntsville&#34;&gt;Master Students at UA Huntsville&lt;/h3&gt;
+&lt;p&gt;If you are a Master student at UAH and looking for a Master thesis project, please contact me through email or stop by my office.&lt;/p&gt;
+&lt;h3 id=&#34;graduate-admissions-of-eceua-huntsville&#34;&gt;Graduate Admissions of ECE@UA Huntsville&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.uah.edu/admissions/graduate/apply-for-admission/international-students&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Graduate Admission - International Students&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.uah.edu/admissions/graduate/financial-aid/assistantships&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Graduate Assistantships&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.uah.edu/eng/departments/ece/programs/graduate/computer-engineering/phd&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PhD Admission in Computer Engineering&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.uah.edu/images/Engineering/electrical-computer/pdfs/ece-graduate-student-guidlines.pdf&#34;&gt;ECE Graduate Student Guide&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;other-references&#34;&gt;Other References&lt;/h2&gt;
+&lt;h3 id=&#34;general-information-for-perspective-students&#34;&gt;General Information for Perspective Students&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://sercatuta-lei.github.io/downloads/FOSER-December-2011.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Future of Software Engineering Research&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S1877050922002393&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Future of Cybsersecurity&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.software.ac.uk/blog/ten-reasons-be-research-software-engineer&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ten Reasons to be a Research Software Engineer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../uploads/HowToMakePhD.pdf&#34;&gt;How to Make PhD in Software Engineering&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;technical-paper-writing&#34;&gt;Technical Paper Writing&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://homes.cs.washington.edu/~mernst/advice/write-technical-paper.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;How to Write a Technical Paper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://homes.cs.washington.edu/~mernst/advice/write-technical-paper.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tips on Writing a Research Paper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../uploads/TechPaperHowTo.pdf&#34;&gt;A Guide for Writing a Technical Resesarch Paper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/762947/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hints on Writing Technical Papers and Making Presentations&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.connectedpapers.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Connected Papers | Explore connected papers in a visial graph&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
