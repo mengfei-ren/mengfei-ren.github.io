@@ -14,15 +14,6 @@
     
     <item>
       <title>🎉 New Paper Accepted</title>
-      <link>http://localhost:1313/post/esorics24/</link>
-      <pubDate>Mon, 17 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/esorics24/</guid>
-      <description>&lt;p&gt;Our paper &lt;em&gt;Intelligent Zigbee Protocol Fuzzing via Constraint-Field Dependency Inference&lt;/em&gt; has been accepted by 28th European Symposium on Research in Computer Security (ESORICS &amp;lsquo;&amp;lsquo;23). See the details from this &lt;a href=&#34;https://link.springer.com/chapter/10.1007/978-3-031-51476-0_23&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>🎉 New Paper Accepted</title>
       <link>http://localhost:1313/post/host25/</link>
       <pubDate>Mon, 17 Feb 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/host25/</guid>
@@ -36,6 +27,15 @@
       <pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/isicn25/</guid>
       <description>&lt;p&gt;One PhD student &lt;strong&gt;Abdullah Noman&lt;/strong&gt;&amp;rsquo;s &lt;em&gt;An AI-based Security Analysis Solution for DevSecOps&lt;/em&gt; being accepted by 2025 International Symposium on Intelligent Computing and Networking (ISICN &amp;lsquo;25). The paper link will be released after the conference.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>🎉 New Paper Accepted</title>
+      <link>http://localhost:1313/post/esorics24/</link>
+      <pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/esorics24/</guid>
+      <description>&lt;p&gt;Our paper &lt;em&gt;Intelligent Zigbee Protocol Fuzzing via Constraint-Field Dependency Inference&lt;/em&gt; has been accepted by 28th European Symposium on Research in Computer Security (ESORICS &amp;lsquo;&amp;lsquo;23). See the details from this &lt;a href=&#34;https://link.springer.com/chapter/10.1007/978-3-031-51476-0_23&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

@@ -121,9 +121,11 @@ sections:
     content:
       title: Contact
       text: |-
-        ✉ Email: mengfei[dot]ren[AT]uah[dot]edu
-        📫 Address: Engineering Building RM272, 301 Sparkman Drive, Huntsville, AL, 35899
-        📅 Office Hours: Monday & Wednesday 2:30 - 3:30 PM
+        ✉ **Email:** mengfei[dot]ren[AT]uah[dot]edu
+
+        📫 **Address:** Engineering Building RM272, 301 Sparkman Drive, Huntsville, AL, 35899
+
+        📅 **Office Hours:** Monday & Wednesday 2:30 - 3:30 PM
     design:
       columns: 1
 ---

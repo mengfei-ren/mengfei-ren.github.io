@@ -1,25 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog | Mengfei Ren</title>
+    <title>Recent News | Mengfei Ren</title>
     <link>http://localhost:1313/post/</link>
       <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
-    <description>Blog</description>
+    <description>Recent News</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 17 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_73ed8df26cd91906.png</url>
-      <title>Blog</title>
+      <title>Recent News</title>
       <link>http://localhost:1313/post/</link>
     </image>
-    
-    <item>
-      <title>🎉 New Paper Accepted</title>
-      <link>http://localhost:1313/post/esorics24/</link>
-      <pubDate>Mon, 17 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/esorics24/</guid>
-      <description>&lt;p&gt;Our paper &lt;em&gt;Intelligent Zigbee Protocol Fuzzing via Constraint-Field Dependency Inference&lt;/em&gt; has been accepted by 28th European Symposium on Research in Computer Security (ESORICS &amp;lsquo;&amp;lsquo;23). See the details from this &lt;a href=&#34;https://link.springer.com/chapter/10.1007/978-3-031-51476-0_23&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>🎉 New Paper Accepted</title>
@@ -45,6 +36,15 @@
       <pubDate>Fri, 07 Jun 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/nfr24/</guid>
       <description>&lt;p&gt;I have been selected for the award of 2023/24 UAH New Faculty Research Program, within the project &lt;em&gt;Automated Test Cases Generation for Detecting Bugs of Modern Compilers&lt;/em&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>🎉 New Paper Accepted</title>
+      <link>http://localhost:1313/post/esorics24/</link>
+      <pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/esorics24/</guid>
+      <description>&lt;p&gt;Our paper &lt;em&gt;Intelligent Zigbee Protocol Fuzzing via Constraint-Field Dependency Inference&lt;/em&gt; has been accepted by 28th European Symposium on Research in Computer Security (ESORICS &amp;lsquo;&amp;lsquo;23). See the details from this &lt;a href=&#34;https://link.springer.com/chapter/10.1007/978-3-031-51476-0_23&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

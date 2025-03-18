@@ -10,10 +10,6 @@
     <lastmod>2025-02-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/post/esorics24/</loc>
-    <lastmod>2025-02-17T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>http://localhost:1313/post/host25/</loc>
     <lastmod>2025-02-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -68,6 +64,10 @@
   </url><url>
     <loc>http://localhost:1313/tags/award/</loc>
     <lastmod>2024-06-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/post/esorics24/</loc>
+    <lastmod>2024-01-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/publication/conference-paper/taintbfuzz/</loc>
