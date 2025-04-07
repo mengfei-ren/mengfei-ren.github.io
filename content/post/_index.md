@@ -1,4 +1,4 @@
 ---
-title: Recent News
-view: article-grid
+  title: Recent News
+  view: article-grid
 ---

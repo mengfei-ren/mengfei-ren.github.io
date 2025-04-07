@@ -11,8 +11,6 @@ banner:
   image: ''
 ---
 
-**UPDATES: Currently one GTA position for Fall 2025.**
-
 You will have the chance to work on the grand challenges of software engineering, testing of IoT wireless protocols, compilers, ad-hoc ecosystems and security problems in software applications. You will be involved in determining the important and interesting questions, creating and improving instrumental setups, performing measurements, and making discoveries.
 
 ## Research Interests
