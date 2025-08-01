@@ -10,12 +10,9 @@ main:
   - name: News
     url: /#News
     weight: 11
-  - name: Honors & Rewards
-    url: /#honors
-    weight: 12
   - name: Publications
     url: /#papers
-    weight: 13
+    weight: 12
   - name: Teaching & Services
     url: /#teaching
     weight: 20

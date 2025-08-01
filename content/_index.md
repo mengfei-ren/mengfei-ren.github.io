@@ -6,7 +6,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "3rem"
+  spacing: "6rem"
 
 sections:
   - block: resume-biography-3
@@ -24,18 +24,18 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: UAH.jpg
+          filename: stacked-peaks.svg
           filters:
-            brightness: 0.3
+            brightness: 1.0
           size: cover
           position: center
-          parallax: true
+          parallax: false
   - block: markdown
     content:
       title: '🧑‍🎓 Prospective Students'
       subtitle: ''
       text: |-
-        I am continuously seeking proactive Ph.D. candidates interested in advancing research in Software Testing and IoT Security. Prospective candidates should possess a strong foundation in computer science or cybersecurity, with a focus on software testing, operating systems, and proficient programming skills (C, C++, Python, Java). If this opportunity aligns with your interests, please reach out to me. See current openings in [here](opening/).
+        I am continuously seeking proactive Ph.D. candidates interested in advancing research in Software Testing. Prospective candidates should possess a strong foundation in computer science or software engineering, with a focus on program analysis, testing, operating systems, and proficient programming skills (C, C++, Python, Java). If this opportunity aligns with your interests, please reach out to me. See current openings in [here](opening/).
     design:
       columns: 1
   - block: collection
@@ -67,16 +67,6 @@ sections:
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
-  - block: markdown
-    id: honors
-    content:
-      title: Honors & Rewards
-      text: |-
-        🏆 UAH New Faculty Research Award, 2024
-
-        🏆 UT Arlington Summer Dissertation Fellowship, 2023
-        
-        🎀 USENIX Security Symposium Diversity Grant, 2022
   - block: collection
     id: papers
     content:
@@ -106,6 +96,7 @@ sections:
       title: Teaching & Services
       text: |-
         #### Teaching Courses
+        - [Baylor] CSI 3373: Software Assurance and Testing
         - [UAH] CPE 212: Fundamental of Software Engineering
         - [UAH] CPE 645/CS 685: Applied Cryptography
         - [UTA] CSE 4380/5380 Lab: Information Secuirty I 
@@ -121,11 +112,9 @@ sections:
     content:
       title: Contact
       text: |-
-        ✉ **Email:** mengfei[dot]ren[AT]uah[dot]edu
+        ✉ **Email:** Mengfei_Ren[AT]baylor[dot]edu
+        📫 **Address:** Department of Computer Science, One Bear Place #97141, Waco, TX 76798-7141
 
-        📫 **Address:** Engineering Building RM272, 301 Sparkman Drive, Huntsville, AL, 35899
-
-        📅 **Office Hours:** Monday & Wednesday 2:30 - 3:30 PM
     design:
       columns: 1
 ---
