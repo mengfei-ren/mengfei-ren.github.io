@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Mengfei Ren 任梦菲
+title: Mengfei Ren
 
 # Name pronunciation (optional)
 name_pronunciation: ''
