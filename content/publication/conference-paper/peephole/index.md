@@ -28,7 +28,7 @@ publishDate: '2025-02-17T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Proceedings of the 2025 ACM International Conference on the Foundations of Software Engineering (HOST 2025)*. Trondheim, Norway. June, 2025. (Acceptance rate 22.2%=135/607)
+publication: In *Proceedings of the 2025 ACM International Conference on the Foundations of Software Engineering (FSE 2025)*. Trondheim, Norway. June, 2025. (Acceptance rate 22.2%=135/607)
 publication_short: In *FSE 2025*
 
 

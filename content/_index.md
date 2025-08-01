@@ -24,12 +24,12 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: stacked-peaks.svg
+          filename: baylor.jpg
           filters:
-            brightness: 1.0
+            brightness: 0.3
           size: cover
           position: center
-          parallax: false
+          parallax: true
   - block: markdown
     content:
       title: '🧑‍🎓 Prospective Students'
@@ -113,6 +113,7 @@ sections:
       title: Contact
       text: |-
         ✉ **Email:** Mengfei_Ren[AT]baylor[dot]edu
+        
         📫 **Address:** Department of Computer Science, One Bear Place #97141, Waco, TX 76798-7141
 
     design:

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Mengfei Ren
+title: Mengfei Ren 任梦菲
 
 # Name pronunciation (optional)
 name_pronunciation: ''
@@ -12,18 +12,18 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Assistant Professor <br /> Dept. of Electrical & Computer Engineering
+role: Assistant Professor <br /> Department of Computer Science
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: The University of Alabama in Huntsville
-    url: https://www.uah.edu/
+  - name: Baylor University
+    url: https://www.balor.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:mengfei.ren@uah.edu'
+    url: 'mailto:Mengfei_Ren@baylor.edu'
     label: E-mail Me
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=De1VnzoAAAAJ
@@ -34,15 +34,15 @@ profiles:
 
 interests:
   - IoT Wireless Protocol Testing
-  - Compiler Testing
-  - Software Security Testing
+  - Modern Compilers/Decompilers Analysis
+  - Ad-hoc Ecosystems Testing
 
 education:
-  - area: PhD in Computer Science
+  - area: PhD in Computer Science - 2023
     institution: University of Texas at Arlington
-  - area: MSc in Computer Science
+  - area: MSc in Computer Science - 2013
     institution: University of Texas at Arlington
-  - area: BSc in Computer Science
+  - area: BSc in Computer Science - 2011
     institution: China Univeristy of Petroleum
     
 
@@ -50,6 +50,6 @@ education:
 
 ## About Me
 
-I am an Assistant Professor in the [Department of Electrical and Computer Engineering](https://www.uah.edu/eng/departments/ece) at [The University of Alabama in Huntsville](https://www.uah.edu). I received my Ph.D. degrees in Computer Science from [The University of Texas at Arlington](https://www.uta.edu). Prior to commencing my doctoral studies at UT Arlington, I also worked in industry for several years as a software engineer.
+I am an Assistant Professor in the [Department of Computer Science](https://www.ecs.baylor.edu/departments/computer-science) at [Baylor University](https://www.baylor.edu). I received my Ph.D. degrees in Computer Science from [The University of Texas at Arlington](https://www.uta.edu). Prior to joining Baylor, I was an Assistant Professor in the Dept. of Electrical and Computer Engineering at University of Alabama in Huntsville.
 
-My research focuses on the intersection of Software Engineering and Cybersecurity. Specifically, I am dedicated to creating comprehensive security testing tools that leverage advanced software engineering methodologies. These tools aim to enhance the security analysis of IoT ecosystems, modern compilers and ad-hoc ecosystems.
+My research focuses on Software Engineering. Specifically, I am dedicated to developing comprehensive analysis and testing frameworks to enhance correctness and robustness of IoT ecosystems, modern compilers and ad-hoc ecosystems.
