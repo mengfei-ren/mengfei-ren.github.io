@@ -11,6 +11,8 @@ banner:
   image: ''
 ---
 
+**Currently no PhD RA opening for 2026. For TA support, please directly submit application to Baylor graduate school.**
+
 You will have the chance to work on the grand challenges of software engineering, testing of IoT wireless protocols, compilers, ad-hoc ecosystems and resilience of software applications. You will be involved in determining the important and interesting questions, creating and improving instrumental setups, performing measurements, and making discoveries.
 
 ## Research Interests
