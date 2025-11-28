@@ -17,7 +17,7 @@ authors:
 #   - 'Equal contribution'
 
 date: '2025-02-02T00:00:00Z'
-doi: ''
+doi: '10.1007/978-3-032-09694-4_22'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2025-02-17T00:00:00Z'
@@ -26,10 +26,10 @@ publishDate: '2025-02-17T00:00:00Z'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['article']
+publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Proceedings of the 2025 International Symposium on Intelligent Computing and Networking (ISICN 2025)*. San Juan, Puerto Rico, USA. March, 2025. (Just Accepted)
+publication: In *Proceedings of the International Symposium on Intelligent Computing and Networking 2025. ISICN 2025.* Lecture Notes in Networks and Systems, vol 1698. Springer, Cham.
 publication_short: In *Proceedings of the 2025 International Symposium on Intelligent Computing and Networking (ISICN 2025)*
 
 
