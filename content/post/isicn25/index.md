@@ -12,6 +12,6 @@ authors:
   - admin
 
 tags:
-  - Academic
+  - Students
 ---
 One PhD student **Abdullah Noman**'s *An AI-based Security Analysis Solution for DevSecOps* being accepted by 2025 International Symposium on Intelligent Computing and Networking (ISICN '25). The paper link will be released after the conference.
