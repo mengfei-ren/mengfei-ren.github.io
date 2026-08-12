@@ -1,7 +1,7 @@
 ---
 title: 🎉 New Poster Accepted
 summary: One PhD student's poster has been accepted by ISSTA 2026 Poster track
-date: 2025-12-05
+date: 2026-07-25
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
