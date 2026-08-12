@@ -11,7 +11,7 @@ banner:
   image: ''
 ---
 
-**Currently no PhD RA opening for 2026. For TA support, please directly submit application to Baylor graduate school.**
+**I may have one RA opportunity for Spring/Fall 2027. Contact me first if you're interested.**
 
 You will have the chance to work on the grand challenges of software engineering, testing of IoT wireless protocols, compilers, ad-hoc ecosystems and resilience of software applications. You will be involved in determining the important and interesting questions, creating and improving instrumental setups, performing measurements, and making discoveries.
 
@@ -32,15 +32,15 @@ We are looking for students who are/have
 
 **How to Apply**
 
-If you are interested in working with us as a Ph.D. student, please send me the following materials via [email](mailto:Mengfei_Ren@baylor.edu), with the title **"PhD Application_Name_Term"**. <span style="color:red;">Emails without all required materials will not be reviewed and replied!</span>
+If you are interested in working with us as a Ph.D. student, please send me the following materials via [email](mailto:Mengfei_Ren@baylor.edu), with the title **"PhD Application - Name - Term"**. <span style="color:red;">Emails without all required materials will not be reviewed and replied!</span>
 
 - 📌 Official transcripts of all educations. Unofficial transcript for current students is acceptable.
 - 📌 CV/resume with a list of publications if available. The publications should include authors, conference/journal name, and date.
-- 📌 Research statement including the following items:
+- 📌 **Research statement** including the following items:
 	- the specific topic/area you're interested in exploing during Ph.D. study
 	- brief study plan for developing your interested topic/area in 3 or 5 years
 	
-	**Note:** This statement is not the same as personal statement. The described research topic/area should not be too general or broad.
+	**Note:** This statement is not the same as your personal statement. A detailed explanation about your interested research area/topic is expected.
 
 - 📌 English Proficiency Proof. GRE is optional but is a big plus.
 	- IELTS: all sub-scores are >= 6.5

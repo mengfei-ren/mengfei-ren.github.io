@@ -96,15 +96,37 @@ sections:
       title: Teaching & Services
       text: |-
         #### Teaching Courses
-        - [Baylor] CSI 3373: Software Assurance and Testing
+        - [Baylor] CSI 5324: Introduction to Software Engineering
+        - [Baylor] CSI 3471: Software Engineering I
+        - [Baylor] CSI 3373: Software Quality Assurance and Testing
         - [UAH] CPE 212: Fundamental of Software Engineering
         - [UAH] CPE 645/CS 685: Applied Cryptography
         - [UTA] CSE 4380/5380 Lab: Information Secuirty I 
 
         #### Professional Services
         *Technical Program Committee*
+        - [ISSTA AE] ACM ISSTA Artifact Evaluation: 2026
+        - [ICSS] CCF International Conference on Service Science: 2026
+        - [DCAS] IEEE Dallas Circuits and Systems Conference: 2026
         - [SoutheastCon] IEEE SourtheastCon: 2024, 2025
-        - [JSS] The Journal of Systems & Software   
+        *Peer Reviewer*
+        - [JSS] The Journal of Systems & Software
+        - [TAISP] ACM Transactions on AI Secuirty and Privacy
+     
+    design:
+      columns: 1
+  - block: markdown
+    id: Students
+    content:
+      title: Students
+      text: |-
+        #### PhD Students
+        - [Abdullah Noman](https://nomanabdullah.github.io/#)
+
+        #### Undergraduate Students
+        - Jace Yarborough [Spring 2026]
+        - Luke Henning [Spring 2026]
+     
     design:
       columns: 1
   - block: markdown
