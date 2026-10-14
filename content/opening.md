@@ -11,8 +11,6 @@ banner:
   image: ''
 ---
 
-**I may have one RA opportunity for Spring/Fall 2027. Contact me first if you're interested.**
-
 You will have the chance to work on the grand challenges of software engineering, testing of IoT wireless protocols, compilers, ad-hoc ecosystems and resilience of software applications. You will be involved in determining the important and interesting questions, creating and improving instrumental setups, performing measurements, and making discoveries.
 
 ## Research Interests
@@ -32,20 +30,16 @@ We are looking for students who are/have
 
 **How to Apply**
 
-If you are interested in working with us as a Ph.D. student, please send me the following materials via [email](mailto:Mengfei_Ren@baylor.edu), with the title **"PhD Application - Name - Term"**. <span style="color:red;">Emails without all required materials will not be reviewed and replied!</span>
+If you are interested in working with us as a Ph.D. student, please submit an application to Baylor Graduate School then send me the following materials via [email](mailto:Mengfei_Ren@baylor.edu), with the title **"PhD Application - Name - Term"**. 
+
+<p><span style="color:red;">Due to the high volume of inquiry emails, I may only reply to student whose background and experiences more align with my research projects.</span></p>
 
 - 📌 Official transcripts of all educations. Unofficial transcript for current students is acceptable.
 - 📌 CV/resume with a list of publications if available. The publications should include authors, conference/journal name, and date.
-- 📌 **Research statement** including the following items:
-	- the specific topic/area you're interested in exploing during Ph.D. study
-	- brief study plan for developing your interested topic/area in 3 or 5 years
-	
-	**Note:** This statement is not the same as your personal statement. A detailed explanation about your interested research area/topic is expected.
-
+- 📌 **Research statement**: This could be a file or a paragraph. Rather than summarizing MY research work, I prefer to seeing what specific research area/problems YOU are interested to explore in PhD study. It should be narrowed down and motivated by your own observations and experiences. 
 - 📌 English Proficiency Proof. GRE is optional but is a big plus.
 	- IELTS: all sub-scores are >= 6.5
 	- TOEFL iBT: total score is >= 80
-	- Duolingo: total score is >= 125
 
 
 ### Master Students at Baylor
