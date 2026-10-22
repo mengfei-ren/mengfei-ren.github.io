@@ -30,17 +30,7 @@ We are looking for students who are/have
 
 **How to Apply**
 
-If you are interested in working with us as a Ph.D. student, please submit an application to Baylor Graduate School then send me the following materials via [email](mailto:Mengfei_Ren@baylor.edu), with the title **"PhD Application - Name - Term"**. 
-
-<p><span style="color:red;">Due to the high volume of inquiry emails, I may only reply to student whose background and experiences more align with my research projects.</span></p>
-
-- 📌 Official transcripts of all educations. Unofficial transcript for current students is acceptable.
-- 📌 CV/resume with a list of publications if available. The publications should include authors, conference/journal name, and date.
-- 📌 **Research statement**: This could be a file or a paragraph. Rather than summarizing MY research work, I prefer to seeing what specific research area/problems YOU are interested to explore in PhD study. It should be narrowed down and motivated by your own observations and experiences. 
-- 📌 English Proficiency Proof. GRE is optional but is a big plus.
-	- IELTS: all sub-scores are >= 6.5
-	- TOEFL iBT: total score is >= 80
-
+If you are interested in working with us as a Ph.D. student, please submit an application to Baylor Graduate School and mention my name in your application. Currently, I'd like to review applicants after the department's initial screening and invite selected candidates for interviews based on research fit and available opportunities.
 
 ### Master Students at Baylor
 If you are a Master student at Baylor and looking for a Master thesis project, please contact me through email or stop by my office.
